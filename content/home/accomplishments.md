@@ -21,8 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = ""
   organization_url = ""
-  title = "Convergence or Divergence: The Dynamic Trend of Wage Difference of Migrant Workers among Cities in China -- Evidence from CMDS  
-  (With Frank Qu)"
+  title = "Convergence or Divergence: The Dynamic Trend of Wage Difference of Migrant Workers among Cities in China -- Evidence from CMDS (With Frank Qu)"
   url = ""
   date_start = "2020-09-26"
   date_end = ""
