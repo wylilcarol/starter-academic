@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
-  description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
+  description = """Study Economics at national Economic Foundation Talent Training Base.
   """
 
 +++
