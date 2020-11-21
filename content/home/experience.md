@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "MA"
-  company = "[Business School, Nanjing University](https://nubs.nju.edu.cn/)"
+  company = "Business School, Nanjing University"
   company_url = ""
   location = "Nanjing, Jiangsu"
   date_start = "2019-09-01"
@@ -28,14 +28,14 @@ date_format = "Jan 2006"
 
   Association activity include:
   
-  * TA : [Introduction to Econometrics(Fall term 2020,Taught by Zhaopeng Qu)](https://byelenin.github.io/Metrics_2020/) 
-  * TA : [Management Decisions and Big Data(Spring term 2020,Taught by Zhaopeng Qu)](https://byelenin.github.io/MBA_Big_Data/)
-  * TA : [Labor Economics(Fall term 2019)]
+  * TA : Introduction to Econometrics(Fall term 2020, Taught by Zhaopeng Qu)
+  * TA : [Management Decisions and Big Data(Spring term 2020, Taught by Zhaopeng Qu) 
+  * TA : [Labor Economics(Fall term 2019, Taught by Zhaopeng Qu)]
   """
 
 [[experience]]
   title = "Government Internship Program"
-  company = "[Fuxin Statistics Bureau](http://tjj.fuxin.gov.cn/)"
+  company = "Fuxin Statistics Bureau"
   company_url = ""
   location = "Fuxin, Liaoning"
   date_start = "2020-05-15"
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "BA"
-  company = "[School of Economics, Jilin University](http://jjxy.jlu.edu.cn/)"
+  company = "School of Economics, Jilin University"
   company_url = ""
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
