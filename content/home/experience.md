@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Business School, Nanjing University"
   company_url = ""
   location = "Nanjing, Jiangsu"
-  date_start = "2019-09-01"
+  date_start = "2020-09-01"
   date_end = ""
   description = """Major in Population resources and Environmental Economics.  
   Association activity include:
@@ -43,6 +43,16 @@ date_format = "Jan 2006"
   date_start = "2020-05-15"
   date_end = "2020-08-28"
   description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
+  """
+
+[[experience]]
+  title = "BA"
+  company = "School of Economics, Jilin University"
+  company_url = "http://jjxy.jlu.edu.cn/"
+  location = "Changchun, Jilin"
+  date_start = "2015-09-01"
+  date_end = "2019-06-31"
+  description = """Study Economics at national Economic Foundation Talent Training Base.
   """
 
 +++
