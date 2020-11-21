@@ -27,18 +27,32 @@ date_format = "Jan 2006"
   description = """Major in Population resources and Environmental Economics.
   Association activity include:
   
-  * TA : [Introduction to Econometrics(Fall term 2020,Taught by Frank Qu)](https://byelenin.github.io/Metrics_2020/)
-  * TA : [Management Decisions and Big Data(Spring term 2020,Taught by Frank Qu)](https://byelenin.github.io/MBA_Big_Data/)
-  * TA : [Labor Economics(Fall term 2019,Taught by Frank Qu)]
+  * TA : [Introduction to Econometrics](https://byelenin.github.io/Metrics_2020/)  
+  (Fall term 2020,Taught by Frank Qu)]
+  * TA : [Management Decisions and Big Data](https://byelenin.github.io/MBA_Big_Data/)  
+  (Spring term 2020,Taught by Frank Qu)]
+  * TA : [Labor Economics]  
+  (Fall term 2019,Taught by Frank Qu)]
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Government Internship Program"
+  company = "Fuxin Statistics Bureau"
+  company_url = "http://tjj.fuxin.gov.cn/"
+  location = "Fuxin, Liaoning"
+  date_start = "2020-05-15"
+  date_end = "2020-08-28"
+  description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
+  """
+
+[[experience]]
+  title = "BA"
+  company = "School of Economics, Jilin University"
+  company_url = "http://jjxy.jlu.edu.cn/"
+  location = "Changchun, Jilin"
+  date_start = "2015-09-01"
+  date_end = "2019-06-31"
+  description = """Study Economics at national Economic Foundation Talent Training Base.
+  """
 
 +++
