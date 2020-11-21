@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Government Internship Program"
-  company = "Fuxin Statistics Bureau"
+  company = "[Fuxin Statistics Bureau](http://tjj.fuxin.gov.cn/)"
   company_url = ""
   location = "Fuxin, Liaoning"
   date_start = "2020-05-15"
