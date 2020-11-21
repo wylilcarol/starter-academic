@@ -51,8 +51,8 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
-  date_end = ""
-  description = """
+  date_end = "2019-06-31"
+  description = """Study Economics at national Economic Foundation Talent Training Base.
   """
 
 +++
