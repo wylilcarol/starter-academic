@@ -45,14 +45,4 @@ date_format = "Jan 2006"
   description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
   """
 
-[[experience]]
-  title = "BA"
-  company = "School of Economics, Jilin University"
-  company_url = ""
-  location = "Changchun, Jilin"
-  date_start = "2015-09-01"
-  date_end = "2019-06-31"
-  description = """Study Economics at national Economic Foundation Talent Training Base.
-  """
-
 +++
