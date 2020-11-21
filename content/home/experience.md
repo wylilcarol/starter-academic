@@ -48,7 +48,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "BA"
   company = "School of Economics, Jilin University"
-  company_url = "http://jjxy.jlu.edu.cn/"
+  company_url = ""
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
   date_end = "2019-06-31"
