@@ -46,13 +46,13 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Government Internship Program"
-  company = "Fuxin Statistics Bureau"
+  title = "BA"
+  company = "School of Economics, Jilin University"
   company_url = ""
-  location = "Fuxin, Liaoning"
-  date_start = "2020-05-15"
-  date_end = "2020-08-28"
-  description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
+  location = "Changchun, Jilin"
+  date_start = "2015-09-01"
+  date_end = "2019-06-31"
+  description = """Study Economics at national Economic Foundation Talent Training Base.
   """
 
 +++
