@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "MA"
-  company = "Business School, Nanjing University"
+  company = "[Business School, Nanjing University](https://nubs.nju.edu.cn/)"
   company_url = ""
   location = "Nanjing, Jiangsu"
   date_start = "2020-09-01"
@@ -47,7 +47,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "BA"
-  company = "School of Economics, Jilin University"
+  company = "[School of Economics, Jilin University](http://jjxy.jlu.edu.cn/)"
   company_url = ""
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
