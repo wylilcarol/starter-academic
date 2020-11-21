@@ -1,5 +1,5 @@
 ---
-title: Chen,Ting and James Kung(2019), “Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226.
+title: Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”
 date: 2019-10-10
 math: true
 diagram: true
