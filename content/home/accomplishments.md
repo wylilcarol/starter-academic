@@ -53,6 +53,8 @@ date_format = "Jan 2006"
   date_start = ""
   date_end = ""
   description = "
-  *Chen,Ting and James Kung(2019), [“Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226.](https://academic.oup.com/qje/article/134/1/185/5140154)" and [slides](https://academic.oup.com/qje/article/134/1/185/5140154)"
+  * Chen,Ting and James Kung(2019), “Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226.
+  * 
+  * "
 
 +++
