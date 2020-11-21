@@ -24,15 +24,25 @@ date_format = "Jan 2006"
   location = "Nanjing, Jiangsu"
   date_start = "2019-09-01"
   date_end = ""
-  description = """Major in Population resources and Environmental Economics.
+  description = """Major in Population resources and Environmental Economics.  
   Association activity include:
   
   * TA : [Introduction to Econometrics](https://byelenin.github.io/Metrics_2020/)  
-  (Fall term 2020,Taught by Frank Qu)]
+  (Fall term 2020, Taught by Frank Qu)]
   * TA : [Management Decisions and Big Data](https://byelenin.github.io/MBA_Big_Data/)  
-  (Spring term 2020,Taught by Frank Qu)]
+  (Spring term 2020, Taught by Frank Qu)]
   * TA : [Labor Economics]  
-  (Fall term 2019,Taught by Frank Qu)]
+  (Fall term 2019, Taught by Frank Qu)]
+  """
+
+[[experience]]
+  title = "Government Internship Program"
+  company = "Fuxin Statistics Bureau"
+  company_url = ""
+  location = "Fuxin, Liaoning"
+  date_start = "2020-05-15"
+  date_end = "2020-08-28"
+  description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
   """
 
 +++
