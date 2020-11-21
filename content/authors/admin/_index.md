@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Yi 
+title: Wang Yi (王祎)
 
 # Is this the primary user of the site?
 superuser: true
