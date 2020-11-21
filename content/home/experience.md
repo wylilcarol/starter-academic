@@ -17,35 +17,10 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "MA"
-  company = "Business School, Nanjing University"
-  company_url = ""
-  location = "Nanjing, Jiangsu"
-  date_start = "2019-09-01"
-  date_end = "to date"
-  description = """Major in Population resources and Environmental Economics.
-
-  Association activity include:
-  
-  * TA : Introduction to Econometrics(Fall term 2020, Taught by Zhaopeng Qu)
-  * TA : [Management Decisions and Big Data(Spring term 2020, Taught by Zhaopeng Qu) 
-  * TA : [Labor Economics(Fall term 2019, Taught by Zhaopeng Qu)]
-  """
-
-[[experience]]
-  title = "Government Internship Program"
-  company = "Fuxin Statistics Bureau"
-  company_url = ""
-  location = "Fuxin, Liaoning"
-  date_start = "2020-05-15"
-  date_end = "2020-08-28"
-  description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
-  """
 
 [[experience]]
   title = "BA"
-  company = "School of Economics, Jilin University"
+  company = "[School of Economics, Jilin University](http://jjxy.jlu.edu.cn/)"
   company_url = ""
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
