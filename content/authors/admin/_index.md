@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Yi
+title: Wang Yi 
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,6 +61,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a second-year graduate student at the Business School of Nanjing University. This is my sixth year of studying economics. My major is population resources and environmental Economics and my interest is in labor economics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Under the guidance of Tutor Frank Qu, I am working hard on econometrics, stata and R, and collaborated with him on the research. In addition, I'm teaching stata to undergraduates in the econometrics class this semester, as a TA.  
+
+
