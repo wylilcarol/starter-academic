@@ -27,10 +27,7 @@ date_format = "Jan 2006"
   description = """Major in Population resources and Environmental Economics.
 
   Association activity include:
-  
-  * TA : [Introduction to Econometrics(Fall term 2020,Taught by Zhaopeng Qu)](https://byelenin.github.io/Metrics_2020/) 
-  * TA : [Management Decisions and Big Data(Spring term 2020,Taught by Zhaopeng Qu)](https://byelenin.github.io/MBA_Big_Data/)
-  * TA : [Labor Economics(Fall term 2019)]
+
   """
 
 [[experience]]
