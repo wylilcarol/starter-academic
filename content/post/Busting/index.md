@@ -1,6 +1,6 @@
 ---
-title: Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”
-date: 2019-10-10
+title: Busting
+date: 2019-07-12
 math: true
 diagram: true
 image:
