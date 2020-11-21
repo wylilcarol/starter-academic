@@ -45,16 +45,4 @@ date_format = "Jan 2006"
   date_end = ""
   description = "To analyzes the influence of endowment insurance on the labor supply of migrant workers."
 
-[[item]]
-  organization = ""
-  organization_url = ""
-  title = "Report papers from other authors"
-  url = ""
-  date_start = ""
-  date_end = ""
-  description = "
-  * Chen,Ting and James Kung(2019), “Busting the ‘Princelings’: The Campaign against Corruption in China’s Primary Land Market”,The Quarterly Journal of Economics, 134(1),pp.185–226.
-  * 
-  * "
-
 +++
