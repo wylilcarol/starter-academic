@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   organization_url = ""
   title = "The Influence of Endowment Insurance on Labor Supply of Migrant Workers -- Based on PSM method"
   url = ""
-  date_start = "2020-02-16"
+  date_start = "2020-02-11"
   date_end = ""
   description = "To analyzes the influence of endowment insurance on the labor supply of migrant workers."
 
