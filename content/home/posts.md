@@ -11,7 +11,7 @@ title = "Recent Posts"
 subtitle = ""
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
+  #Page type to display. E.g. post, talk, or publication.
   page_type = "post"
   
   # Choose how much pages you would like to display (0 = all pages)
@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = ""
+    category = "Report other people's papers"
     publication_type = ""
     author = ""
     exclude_featured = false
