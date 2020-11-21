@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   (Fall term 2020, Taught by Frank Qu)]
   * TA : [Management Decisions and Big Data](https://byelenin.github.io/MBA_Big_Data/)  
   (Spring term 2020, Taught by Frank Qu)]
-  * TA : [Labor Economics]  
+  * TA : Labor Economics  
   (Fall term 2019, Taught by Frank Qu)]
   """
 
