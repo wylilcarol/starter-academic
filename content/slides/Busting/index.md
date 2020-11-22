@@ -13,9 +13,7 @@ slides:
   highlight_style: dracula
 ---
 
-# Create slides in Markdown with Academic
-
-[PPT](https://github.com/wylilcarol/starter-academic/blob/master/Files/Busting.pptx) 
+# [Slides](https://wylilcarol.github.io/wylilcarol.github.io/Files/Busting.pptx) 
 
 ---
 
