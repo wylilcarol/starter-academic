@@ -1,6 +1,6 @@
 ---
-title: Estimating welfare 
-summary:Einav L, Finkelstein A, Cullen M R. “Estimating welfare in insurance markets using variation in prices” [J]. The quarterly journal of economics, 2010, 125(3): 877-921.
+title: Estimating welfare in insurance markets using variation in prices 
+summary: Einav L, Finkelstein A, Cullen M R. “Estimating welfare in insurance markets using variation in prices” [J]. The quarterly journal of economics, 2010, 125(3): 877-921.
 tags:
 - literature learning 
 date: "2019-12-23T00:00:00Z"
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Busting
+slides: Welfare
 ---
 
 
