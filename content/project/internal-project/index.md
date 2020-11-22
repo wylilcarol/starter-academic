@@ -1,22 +1,22 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: Busting the ‘Princelings’
+summary: Ting Chen, James Kai-sing Kung , “Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- literature learning 
+date: "2019-10-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://github.com/wylilcarol
 url_code: ""
 url_pdf: ""
 url_slides: ""
