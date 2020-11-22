@@ -3,7 +3,7 @@ title: Abandoned by Coal, Swallowed by Opioids?
 summary: Abandoned by Coal, Swallowed by Opioids?
 tags:
 - literature learning 
-date: "2020-02-18T00:00:00Z"
+date: "2020-06-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Abandoned
+slides: Choke
 ---
 
 Opioid addiction and mortality skyrocketed over the past decade. A casual look at the geographic
