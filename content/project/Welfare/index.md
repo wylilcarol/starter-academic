@@ -1,5 +1,5 @@
 ---
-title: Busting the ‘Princelings’
+title: Estimating welfare in insurance markets using variation in prices
 summary: Ting Chen, James Kai-sing Kung , “Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.
 tags:
 - literature learning 
