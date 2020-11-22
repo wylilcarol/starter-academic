@@ -1,9 +1,9 @@
 ---
-title: Estimating welfare in insurance markets using variation in prices 
-summary: Einav L, Finkelstein A, Cullen M R. “Estimating welfare in insurance markets using variation in prices” [J]. The quarterly journal of economics, 2010, 125(3): 877-921.
+title: Busting the ‘Princelings’
+summary: Ting Chen, James Kai-sing Kung , “Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.
 tags:
 - literature learning 
-date: "2019-12-23T00:00:00Z"
+date: "2019-10-25T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,8 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Welfare
+slides: Busting
 ---
 
-
-
+**发布于【蓝鲸OLS实验室】 2019-10-25**
