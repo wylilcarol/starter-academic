@@ -30,7 +30,7 @@ url_video: ""
 slides: Access
 ---
 
-【Source】Kinnan C, Wang S Y, Wang Y. Access to migration for rural households[J]. American Economic Journal: Applied Economics, 2018, 10(4): 79-119.
+【Source】*Kinnan C, Wang S Y, Wang Y. Access to migration for rural households[J]. American Economic Journal: Applied Economics, 2018, 10(4): 79-119.*
 
 This paper exploits a unique feature of China’s history, the “sentdown
 youth” (SDY) program, to study the effects of access to internal
