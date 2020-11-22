@@ -1,6 +1,6 @@
 ---
 title: The winter choke: Coal-Fired heating, air pollution, and mortality in China
-summary: Einav L, Finkelstein A, Cullen M R , “Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, Volume 125, Issue 3, 2010, Pages 877-921.
+summary: 
 tags:
 - literature learning 
 date: "2019-12-23T00:00:00Z"
