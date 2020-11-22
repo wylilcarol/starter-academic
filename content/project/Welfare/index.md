@@ -1,6 +1,6 @@
 ---
 title: Estimating welfare in insurance markets using variation in prices
-summary: Einav L, Finkelstein A, Cullen M R , “Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, Volume 125, Issue 3, 2010, Pages 877-921.
+summary: Ting Chen, James Kai-sing Kung , “Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.
 tags:
 - literature learning 
 date: "2019-12-23T00:00:00Z"
