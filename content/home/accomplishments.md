@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-02-16"
   date_end = ""
-  description = "To analyzes the influence of the floating behavior of the single floating population on the interval between marriage and childbirth."
+  description = "To analyze the influence of the floating behavior of the single floating population on the interval between marriage and childbirth."
 
 [[item]]
   organization = ""
@@ -43,6 +43,6 @@ date_format = "Jan 2006"
   url = ""
   date_start = "2020-02-11"
   date_end = ""
-  description = "To analyzes the influence of endowment insurance on the labor supply of migrant workers."
+  description = "To analyze the influence of endowment insurance on the labor supply of migrant workers."
 
 +++
