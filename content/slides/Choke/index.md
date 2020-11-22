@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: The winter choke: Coal-Fired heating, air pollution, and mortality in China
+summary: The winter choke
 authors: []
 tags: []
 categories: []
