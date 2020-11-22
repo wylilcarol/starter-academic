@@ -52,11 +52,15 @@ date_format = "Jan 2006"
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
-  description = """Study Economics at National Economic Foundation Talent Training Base.
-  Association activity include:
+  description = """Study Economics at National Economic Foundation Talent Training Base.  
+  Association activity include:  
 
-  * Participated in **Sino-japanese Economic and East Asian Economic Development Forum** and reported "A Study on Pension System" at Kansai Gakuin University, Nishimiya, Hyogo Prefecture in Japan, March 5, 2018 -- March 11, 2018.
-  * Volunteered in **The East Asian Economic Forum 2018** Jointly organized by Jilin University, Osaka Municipal University and Chonnam National University, Korea, October 8, 2018 -- October 10, 2018.
+  * Participated in **Sino-japanese Economic and East Asian Economic Development Forum** and reported "A Study on Pension System".  
+  Kansai Gakuin University, Nishimiya, Hyogo Prefecture in Japan,  
+  March 5, 2018 -- March 11, 2018.
+  * Volunteered in **The East Asian Economic Forum 2018**.  
+  Jointly organized by Jilin University, Osaka Municipal University and Chonnam National University.   
+  Korea, October 8, 2018 -- October 10, 2018.
   """
 
 +++
