@@ -34,7 +34,7 @@ slides: Busting
 
 ### 【文献阅读】破除“高层政治关联”：中国一级土地市场上的反腐运动
 
-文献来源：Ting Chen, James Kai-sing Kung , [“Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.](https://academic.oup.com/qje/article/134/1/185/5140154)
+*文献来源：Ting Chen, James Kai-sing Kung,* [“Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”](https://academic.oup.com/qje/article/134/1/185/5140154)*, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.*
 
 #### 一、引言
 
