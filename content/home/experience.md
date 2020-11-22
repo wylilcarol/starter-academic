@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Nanjing, Jiangsu"
   date_start = "2020-09-01"
   date_end = ""
-  description = """Major in Population resources and Environmental Economics.  
+  description = """Major in population resources and environmental economics.  
   Association activity include:
   
   * TA : [Introduction to Econometrics](https://byelenin.github.io/Metrics_2020/)  
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Beijing"
   date_start = "2019-01-07"
   date_end = "2019-03-07"
-  description = """In this Internet finance company, Worked in the traffic operations group of the Marketing Department.
+  description = """In this internet finance company, Worked in the Data Traffic Operation Group of the Marketing Department.
   """
 
 [[experience]]
