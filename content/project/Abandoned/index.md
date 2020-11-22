@@ -30,6 +30,8 @@ url_video: ""
 slides: Abandoned
 ---
 
+【Source】*Metcalf G E, Wang Q. Abandoned by Coal, Swallowed by Opioids?[R]. National Bureau of Economic Research, 2019.*
+
 Opioid addiction and mortality skyrocketed over the past decade. A casual look at the geographic
 incidence of opioid mortality shows sharply higher mortality rates in the Appalachian region,
 especially in coal-mining areas. This has led observers to make a link that was characterized by

@@ -1,6 +1,6 @@
 ---
 title: Busting the ‘Princelings’
-summary: Ting Chen, James Kai-sing Kung , “Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market”, The Quarterly Journal of Economics, Volume 134, Issue 1, February 2019, Pages 185–226.
+summary: Busting the ‘Princelings’：The Campaign Against Corruption in China’s Primary Land Market
 tags:
 - literature learning 
 date: "2019-10-25T00:00:00Z"
