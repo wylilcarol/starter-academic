@@ -4,7 +4,7 @@ summary: The winter choke: Coal-Fired heating, air pollution, and mortality in C
 authors: []
 tags: []
 categories: []
-date: "2019-12-23T00:00:00Z"
+date: "2020-06-22T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

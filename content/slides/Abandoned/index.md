@@ -4,7 +4,7 @@ summary: Abandoned by Coal, Swallowed by Opioids?
 authors: []
 tags: []
 categories: []
-date: "2019-12-23T00:00:00Z"
+date: "2020-02-18T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black

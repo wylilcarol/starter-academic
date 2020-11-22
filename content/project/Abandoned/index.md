@@ -3,7 +3,7 @@ title: Abandoned by Coal, Swallowed by Opioids?
 summary: Metcalf G E, Wang Q , “Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research, 2019.
 tags:
 - literature learning 
-date: "2019-12-23T00:00:00Z"
+date: "2020-02-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

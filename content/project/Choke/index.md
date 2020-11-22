@@ -1,9 +1,9 @@
 ---
-title: The winter choke: Coal-Fired heating, air pollution, and mortality in China
-summary: 
+title: Abandoned by Coal, Swallowed by Opioids?
+summary: Metcalf G E, Wang Q , “Abandoned by Coal, Swallowed by Opioids?”, National Bureau of Economic Research, 2019.
 tags:
 - literature learning 
-date: "2019-12-23T00:00:00Z"
+date: "2020-06-22T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,8 +27,19 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: Choke
+slides: Abandoned
 ---
 
-China’s coal-fired winter heating systems generate large amounts of hazardous emissionsthat significantly deteriorate air quality. Exploiting regression discontinuity designs basedon the exact starting dates of winter heating across different cities, we estimate the con-temporaneous impact of winter heating on air pollution and health. We find that turning onthe winter heating system increased the weekly Air Quality Index by 36% and caused 14%increase in mortality rate. This implies that a 10-point increase in the weekly Air QualityIndex causes a 2.2% increase in overall mortality. People in poor and rural areas are particu-larly affected by the rapid deterioration in air quality; this implies that the health impact ofair pollution may be mitigated by improved socio-economic conditions. Exploratory cost-benefit analysis suggests that replacing coal with natural gas for heating can improve socialwelfare.
+Opioid addiction and mortality skyrocketed over the past decade. A casual look at the geographic
+incidence of opioid mortality shows sharply higher mortality rates in the Appalachian region,
+especially in coal-mining areas. This has led observers to make a link that was characterized by
+one newspaper as “abandoned by coal, swallowed by opioids.” We test that theory using
+restricted death data and mine level coal production data. Specifically, we examine whether
+higher reliance on coal mining in a county’s economy leads to higher or lower opioid mortality.
+We find a positive relationship between the share of coal miners among total local labor force and
+county-level opioid mortality rates. This contradicts the “abandoned by coal, swallowed by
+opioids” story. Rather our results suggest that the higher rates of injury in underground coal
+mining (in particular) lead to greater amounts of opioid consumption and mortality. An
+implication is that the decline in coal mining in the United States may have a positive spillover in
+the form of reduced mortality from opioid use.
 
