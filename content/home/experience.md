@@ -46,6 +46,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Internship Program"
+  company = "[51 credit cards](https://www.51credit.com/)"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2019-01-07"
+  date_end = "2019-03-07"
+  description = """In this Internet finance company, Worked in the traffic operations group of the Marketing Department.
+  """
+
+[[experience]]
   title = "BA"
   company = "[School of Economics, Jilin University](http://jjxy.jlu.edu.cn/)"
   company_url = ""
