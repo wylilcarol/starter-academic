@@ -1,6 +1,6 @@
 ---
 title: Estimating welfare in insurance markets using variation in prices
-summary: Einav L, Finkelstein A, Cullen M R. Estimating welfare in insurance markets using variation in prices[J]. The quarterly journal of economics, 2010, 125(3): 877-921.
+summary: Einav L, Finkelstein A, Cullen M R. “Estimating welfare in insurance markets using variation in prices”, The Quarterly Journal of Economics, 2010, 125(3): 877-921.
 tags:
 - literature learning 
 date: "2019-12-23T00:00:00Z"
