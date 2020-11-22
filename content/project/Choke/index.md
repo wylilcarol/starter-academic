@@ -1,5 +1,5 @@
 ---
-title: The winter choke: Coal-Fired heating, air pollution, and mortality in China
+title: The winter choke
 summary: The winter choke: Coal-Fired heating, air pollution, and mortality in China
 tags:
 - literature learning 
