@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Fuxin, Liaoning"
   date_start = "2020-05-15"
   date_end = "2020-08-28"
-  description = """Participate in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conduct field research.
+  description = """Participated in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conducted field research.
   """
 
 [[experience]]
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Chaoyang District, Beijing"
   date_start = "2019-01-07"
   date_end = "2019-03-07"
-  description = """In this internet finance company, Worked in the Data Traffic Operation Group of the Marketing Department.
+  description = """In this internet finance company, worked as a member in the Data Traffic Operation Group of the Marketing Department.
   """
 
 [[experience]]
@@ -62,7 +62,7 @@ date_format = "Jan 2006"
   location = "Changchun, Jilin"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
-  description = """Study Economics at National Economic Foundation Talent Training Base.  
+  description = """Studied economics at National Economic Foundation Talent Training Base.  
   Association activity include:  
 
   * Participated in **Sino-japanese Economic and East Asian Economic Development Forum** and reported "A Study on Pension System".  
