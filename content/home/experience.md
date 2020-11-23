@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = """Major in population resources and environmental economics.  
-  Association activity include:
+  Association activities include:
   
   * TA : [Introduction to Econometrics](https://byelenin.github.io/Metrics_2020/)  
   (Fall term 2020, Taught by Frank Qu)]
@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   location = "Fuxin, Liaoning"
   date_start = "2020-05-15"
   date_end = "2020-08-28"
-  description = """Participated in the Comprehensive Pilot Census of The seventh national census as a Census office worker and conducted field research.
+  description = """Participated in the Comprehensive Pilot Census of the Seventh National Census as a census office worker and conducted field research.
   """
 
 [[experience]]
@@ -52,7 +52,7 @@ date_format = "Jan 2006"
   location = "Chaoyang District, Beijing"
   date_start = "2019-01-07"
   date_end = "2019-03-07"
-  description = """In this internet finance company, worked as a member in the Data Traffic Operation Group of the Marketing Department.
+  description = """In this internet finance company, worked as a member in the data traffic operation group of the marketing department.
   """
 
 [[experience]]
@@ -63,14 +63,14 @@ date_format = "Jan 2006"
   date_start = "2015-09-01"
   date_end = "2019-06-30"
   description = """Studied economics at National Economic Foundation Talent Training Base.  
-  Association activity include:  
+  Association activities include:  
 
-  * Participated in **Sino-japanese Economic and East Asian Economic Development Forum** and reported "A Study on Pension System".  
+  * Participated in **Sino-Japanese Economics and East Asian Economics Development Forum** and reported "A Study on Pension System".  
   Kansai Gakuin University, Nishimiya, Hyogo Prefecture in Japan,  
   March 5, 2018 -- March 11, 2018.
   * Volunteered in **The East Asian Economic Forum 2018**.  
-  Jointly organized by Jilin University, Osaka Municipal University and Chonnam National University.   
-  Korea, October 8, 2018 -- October 10, 2018.
+  Jointly organized by Jilin University, Osaka Municipal University and Jeonnam National University, South Korea.  
+  October 8, 2018 -- October 10, 2018.
   """
 
 +++

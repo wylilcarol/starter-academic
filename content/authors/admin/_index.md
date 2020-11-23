@@ -18,7 +18,7 @@ interests:
 
 education:
   courses:
-  - course: MA in Population resources and environmental economics
+  - course: MA in Population Resources and Environmental Economics
     institution: Business School, Nanjing University 
     year: 2019
   - course: BA in Economics
@@ -66,6 +66,6 @@ user_groups:
 
 I am currently a second-year graduate student at the Business School of Nanjing University. This is my sixth year of studying economics. My major is population resources and environmental economics and my interest is in labor economics.
 
-Under the guidance of my tutor [Frank Qu](https://byelenin.github.io/), I am working hard on econometrics, stata and R, and collaborated with him on the research. In addition, I'm teaching Stata to undergraduates in the [Introduction to Econometrics](https://byelenin.github.io/Metrics_2020/) class this semester, as a TA.  
+Under the guidance of my tutor [Frank Qu](https://byelenin.github.io/), I am working hard on econometrics, Stata and R, and collaborated with him on the research. In addition, I'm teaching Stata to undergraduates in the [Introduction to Econometrics](https://byelenin.github.io/Metrics_2020/) class this semester, as a TA.  
 
 
