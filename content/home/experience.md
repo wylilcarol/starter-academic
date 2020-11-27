@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "[Business School, Nanjing University](https://nubs.nju.edu.cn/)"
   company_url = ""
   location = "Nanjing, Jiangsu"
-  date_start = "2020-09-01"
+  date_start = "2019-09-01"
   date_end = ""
   description = """Major in population resources and environmental economics.  
   Association activities include:
